@@ -10,7 +10,7 @@ const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
 
   return (
-    <nav className="bg-white  fixed top-0 w-full z-50 px-6 py-4 flex justify-between items-center">
+    <nav className="fixed top-0 z-50 flex items-center justify-between w-full px-6 py-4 bg-white">
       <div className="flex items-center space-x-2">
       <Image src="/home/logo.svg" alt="logo" width={120} height={40} priority />
       </div>
@@ -19,7 +19,7 @@ const Navbar = () => {
       <NavLinks />
 
       {/* Buttons */}
-      <div className="hidden md:flex space-x-6">
+      <div className="hidden space-x-6 md:flex">
         <Link href="/demo" className="text-[var(--gray)] hover:text-[var(--primary)] transition-all px-4 py-2">Request a Demo</Link>
         <Link href="/contact" className="bg-[var(--primary)] text-white px-4 py-2 rounded-md shadow hover:bg-primaryDark transition-all">
           Lets Talk
