@@ -5,7 +5,7 @@ import "@fortawesome/fontawesome-free/css/all.min.css";
 const Footer = () => {
   return (
     <footer className= "bg-[var(--primaryDark)] text-[var(--gray py-10 px-6  ">
-        <div className="grid grid-cols-1 gap-8 mx-auto max-w-7xl md:grid-cols-5 ">
+        <div className="flex flex-row flex-wrap justify-between w-full">
             {/*Solutions section*/}
             <div>
                 <h3 className="text-[var(--gray)] text-lg font-semibold mb-4 ">SOLUTIONS</h3>
