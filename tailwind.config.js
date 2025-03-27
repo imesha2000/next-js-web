@@ -7,6 +7,12 @@ module.exports = {
   theme: {
     extend: {
       colors: {
+        // primary: "var(--primary)",
+        // primaryDark: "var(--primaryDark)",
+        // gray: "var(--gray)",
+        // white: "var(--white)",
+        // black: "var(--black)",
+
         // primary: '#22B1B2', 
         // primaryDark: '#14263C',
         // gray: '#6B7280', 
