@@ -2,14 +2,14 @@ import Link from "next/link";
 
 const NavLinks = () => {
   return (
-    <div className="hidden md:flex space-x-6 text-[var(--gray)]">
-      <Link href="/" className="hover:text-[var(--primary)] transition-all">Home</Link>
-      <Link href="/stratum" className="hover:text-[var(--primary)] transition-all flex items-center">Stratum 
-      <span className="text-xs bg-blue-100 text-[var(--primary)] px-1 ml-1 rounded">NEW</span>
+    <div className="hidden space-x-6 text-gray md:flex">
+      <Link href="/" className="transition-all hover:text-primary">Home</Link>
+      <Link href="/stratum" className="flex items-center transition-all hover:text-primary">Stratum 
+      <span className="px-1 ml-1 text-xs bg-blue-100 rounded text-primary">NEW</span>
       </Link>
-      <Link href="/services" className="hover:text-[var(--primary)] transition-all">Services</Link>
-      <Link href="/projects" className="hover:text-[var(--primary)] transition-all">Projects</Link>
-      <Link href="/why-us" className="hover:text-[var(--primary)] transition-all">Why Us</Link>
+      <Link href="/services" className="transition-all hover:text-primary">Services</Link>
+      <Link href="/projects" className="transition-all hover:text-primary">Projects</Link>
+      <Link href="/why-us" className="transition-all hover:text-primary">Why Us</Link>
     </div>
   );
 };
