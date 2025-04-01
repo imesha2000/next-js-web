@@ -1,7 +1,7 @@
 import { useTranslations } from 'next-intl';
 import React from 'react'
 
-const page = () => {
+const home = () => {
   // eslint-disable-next-line react-hooks/rules-of-hooks
   const t = useTranslations('IndexPage');
   return (
@@ -12,4 +12,4 @@ const page = () => {
   )
 }
 
-export default page
+export default home

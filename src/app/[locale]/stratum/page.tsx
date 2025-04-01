@@ -1,6 +1,6 @@
 import React from 'react'
 
-const page = () => {
+const stratum = () => {
   return (
     <div>
       <h2> Stratum Page</h2>
@@ -8,5 +8,5 @@ const page = () => {
   )
 }
 
-export default page
+export default stratum
 
