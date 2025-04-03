@@ -17,7 +17,42 @@
       "contact":"Lets Talk"
     },
     "Footer": {
-      "copyright": "© 2020 Workflow, Inc. All rights reserved."
+      "copyright": "© 2020 Workflow, Inc. All rights reserved.",
+    
+    "Solutions": {
+      "title": "SOLUTIONS",
+      "marketing": "Marketing",
+      "analytics": "Analytics",
+      "commerce": "Commerce",
+      "insights": "Insights"  
+    },
+    "Support": {
+      "title": "SUPPORT",
+      "pricing": "Pricing",
+      "documentation": "Documentation",
+      "guides": "Guides",
+      "api Status": "API Status"  
+    },
+    "Company": {
+      "title": "COMPANY",
+      "about": "About",
+      "blog": "Blog",
+      "jobs": "Jobs",
+      "press": "Press" ,
+      "partners": "Partners"  
+    },
+    "Legal": {
+      "title": "LEGAL",
+      "claim": "Claim",
+      "privacy": "Privacy",
+      "terms": "Terms"  
+    },
+
+    "Subscribe": {
+      "title": "SUBSCRIBE TO OUR NEWSLATER",
+      "infoTitle": "The latest news, articles, and resources, sent to your inbox weekly",
+      "subscribeBtn": "Subscribe"
     }
   }
+}
   

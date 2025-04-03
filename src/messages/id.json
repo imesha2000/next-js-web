@@ -18,7 +18,41 @@
 
     },
     "Footer": {
-      "copyright": "© 2024 Aplikasi Anda. Hak cipta dilindungi."
+      "copyright": "© 2024 Aplikasi Anda. Hak cipta dilindungi.",
+    "Solutions": {
+      "title": "SOLUSI",
+      "marketing": "Pemasaran",
+      "analytics": "Analisis",
+      "commerce": "Perdagangan",
+      "insights": "Wawasan"  
+    },
+    "Support": {
+      "title": "MENDUKUNG",
+      "pricing": "Harga",
+      "documentation": "Dokumentasi",
+      "guides": "Panduan",
+      "api Status": "Status API"  
+    },
+    "Company": {
+      "title": "PERUSAHAAN",
+      "about": "Tentang",
+      "blog": "Blog",
+      "jobs": "JoPekerjaanbs",
+      "press": "Tekan" ,
+      "partners": "Mitra"  
+    },
+    "Legal": {
+      "title": "LEGAL",
+      "claim": "Mengeklaim",
+      "privacy": "Pribadi",
+      "terms": "Ketentuan"  
+    },
+
+    "Subscribe": {
+      "title": "BERLANGGANAN BULETIN KAMI",
+      "infoTitle": "Berita, artikel, dan sumber daya terbaru, dikirim ke kotak masuk Anda setiap minggu",
+      "subscribeBtn": "Berlangganan"
+    }
     }
   }
   
