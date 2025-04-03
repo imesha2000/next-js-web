@@ -1,0 +1,58 @@
+{
+    "IndexPage": {
+      "title": "next-intl example",
+      "description": "Welcome to the Next.js Internationalization (i18n) example! This demo showcases the power of the App Router and how to manage multilingual content seamlessly using next-intl."
+    },
+    "NotFoundPage": {
+      "title": "Page Not Found",
+      "description": "Oops! It seems like you've stumbled upon a page that doesn't exist. Don't worry, our internationalization magic is still hard at work on other parts of the app. Feel free to navigate back to explore more!"
+    },
+    "Navigation": {
+      "home": "Home",
+      "stratum": "Stratum",
+      "services": "Services",
+      "projects": "Projects",
+      "why Us": "Why Us",
+      "demo": "Request a Demo",
+      "contact":"Lets Talk"
+    },
+    "Footer": {
+      "copyright": "© 2020 Workflow, Inc. All rights reserved.",
+    
+    "Solutions": {
+      "title": "SOLUTIONS",
+      "marketing": "Marketing",
+      "analytics": "Analytics",
+      "commerce": "Commerce",
+      "insights": "Insights"  
+    },
+    "Support": {
+      "title": "SUPPORT",
+      "pricing": "Pricing",
+      "documentation": "Documentation",
+      "guides": "Guides",
+      "api Status": "API Status"  
+    },
+    "Company": {
+      "title": "COMPANY",
+      "about": "About",
+      "blog": "Blog",
+      "jobs": "Jobs",
+      "press": "Press" ,
+      "partners": "Partners"  
+    },
+    "Legal": {
+      "title": "LEGAL",
+      "claim": "Claim",
+      "privacy": "Privacy",
+      "terms": "Terms"  
+    },
+
+    "Subscribe": {
+      "title": "SUBSCRIBE TO OUR NEWSLATER",
+      "infoTitle": "The latest news, articles, and resources, sent to your inbox weekly",
+      "subscribeBtn": "Subscribe"
+    }
+  }
+}
+  
